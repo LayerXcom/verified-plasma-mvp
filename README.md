@@ -19,5 +19,5 @@ klab server
 docker exec -it klab bash
 cd /docker
 klab build
-klab run --spec out/specs/proof-SafeAdd_add_succ.k
+klab run --spec out/specs/proof-RootChain_operator_succ.k
 ```
