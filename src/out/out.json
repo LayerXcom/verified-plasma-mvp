@@ -1,0 +1,8 @@
+{
+  "RootChain_operator_succ": {
+    "v2n": {
+      "ACCT_ID": "RootChain"
+    },
+    "act": "RootChain_operator.act"
+  }
+}
